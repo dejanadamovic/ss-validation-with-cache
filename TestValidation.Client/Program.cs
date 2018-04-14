@@ -17,7 +17,7 @@ namespace TestValidation.Client
             }
             catch (WebServiceException e)
             {
-                e.GetResponseStatus().PrintDump();
+                e.Message.PrintDump();
             }
 
             try
