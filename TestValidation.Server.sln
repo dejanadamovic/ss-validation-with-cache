@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestValidation.Server", "Te
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestValidation.Client", "TestValidation.Client\TestValidation.Client.csproj", "{E90F3683-866F-47F4-9D4D-8C6E2F635EA4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestValidation.Server.Core", "TestValidation.Server.Core\TestValidation.Server.Core.csproj", "{490B2BFA-E0DE-4F2F-B140-D2F1D5947D78}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{E90F3683-866F-47F4-9D4D-8C6E2F635EA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E90F3683-866F-47F4-9D4D-8C6E2F635EA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E90F3683-866F-47F4-9D4D-8C6E2F635EA4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{490B2BFA-E0DE-4F2F-B140-D2F1D5947D78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{490B2BFA-E0DE-4F2F-B140-D2F1D5947D78}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{490B2BFA-E0DE-4F2F-B140-D2F1D5947D78}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{490B2BFA-E0DE-4F2F-B140-D2F1D5947D78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
